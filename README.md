@@ -1,7 +1,5 @@
-# dumbdoorbellha
-Dumb Doorbell to HA
-
-I have a very basic doorbell.
+# Connecting a "dumb" doorbell to Home Assistant
+I have a very basic doorbell, it's one of the cheapo ones you can buy for a couple of bucks.
 
 It's the type where you have a normally open pushbutton outside which is connected via two wires to the doorbell/buzzer unit.
 
