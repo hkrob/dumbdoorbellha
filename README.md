@@ -3,6 +3,9 @@ I have a very basic doorbell, it's one of the cheapo ones you can buy for a coup
 
 It's the type where you have a normally open pushbutton outside which is connected via two wires to the doorbell/buzzer unit.
 
+Maybe the best part of this modification is that it is completely undetectable without opening the buzzer up.
+Also, only the original set of batteries is required.
+
 The unit is powered by two 1.5 AA which means I have 3v on hand.
 
 I had an unused Sonoff Zigbee magnet sensor, these things are basically all the same, the magnet is normally open and when it is magnetised by the opposing element it goes closed, completing the circuit.
